@@ -10,7 +10,7 @@ class Helloworld {
     System.out.println("enter the value of b");
     int b= input.nextInt();
     int result ;
-    result=a+b;
-    System.out.println("sump of result is" + "= " + result);
+    result=a-b;
+    System.out.println("sum of result is" + "= " + result);
   }
 }
